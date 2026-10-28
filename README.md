@@ -1,6 +1,6 @@
 <img width="1800" height="520" alt="banner" src="https://github.com/user-attachments/assets/8c9af336-c685-4481-9fdd-442a2053ea2d" />
 
-## 🏆 Awwwards Winning Website
+## Zentry-Inspired Website 🏆
 
 A visually immersive, modern website focused on **smooth animations, creative transitions, interactive elements, and engaging UI/UX** while keeping the codebase structured and reusable.
 
